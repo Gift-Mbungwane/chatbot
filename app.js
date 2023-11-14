@@ -15,5 +15,4 @@ function talk() {
  } else {
     document.getElementById('chatLog').innerHTML = "Sorry I don't understand";
  }
-        
 }
